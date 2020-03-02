@@ -198,3 +198,10 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+.top, a {
+    color: black;
+    float: left;
+    margin-left: 20px;
+}
+
