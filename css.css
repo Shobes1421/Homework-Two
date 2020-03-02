@@ -90,7 +90,10 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
